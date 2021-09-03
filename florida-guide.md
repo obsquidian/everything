@@ -9,7 +9,7 @@
 - [Dr Randolph's Ageless & Wellness Medical Center](https://agelessandwellness.com) : https://agelessandwellness.com
   - Phone Number : **904.249.3743**
   - Location Address : **1891 Beach Blvd, Jacksonville Beach, FL, 32250**
-    - _Warning that this clinic is very busy._ 
+    - Warning that this clinic is very busy. 
     - Mostly caters toward older cis people with menopause, etc.
     - Steven Garces is a married cis gay man and in charge of trans HRT care here.
     
