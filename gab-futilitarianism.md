@@ -12,8 +12,8 @@ ruled--no matter how soft, e.g., even the best state-oriented political liberali
 ruler and the ruled. inevitably, as backed by just history itself, this will spill into social discohesion and causes for domestic civil war 
 (and expansive 'normal' war) for whatever historically and culturally bound causal reason brought it about at any given point in time. it 
 may be true that people will inevitably create oppressive hierarchical structures, but that would just make me a philosophical anarchist + a 
-futilitarian in practical theory. _better for our species to not exist than to eternally live without fully realized anarchic freedom and 
-explosive, wonderful, pluralized realizations of our wondrously multi-coloured and mulit-tonal human natures._ yet 'inherently turn to' does 
+futilitarian in practical theory. **better for our species to not exist than to eternally live without fully realized anarchic freedom and 
+explosive, wonderful, pluralized realizations of our wondrously multi-coloured and mulit-tonal human natures.** yet 'inherently turn to' does 
 a lot of work. what if it's just 'overwhelmingly likely'--as would be more plausible, and more epistemologically virtuous and humble? then 
 we have a problem of *difficulty*. it shouldn't need to be said this mirrors the state-theorists own problem: the fact that their ideal 
 governments never even come close to aligning with the horrors of real-world governments. not even state-oriented political liberalism, with 
