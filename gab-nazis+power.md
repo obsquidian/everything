@@ -1,12 +1,14 @@
-gabrielamadej : 2019-12-25 : on nazis & power
+## START
 
-https://curiouscat.me/gabrielamadej/post/1024494502
+_gabrielamadej : 2019-12-25 : on nazis & power_
 
-Legalize holocaust denial
+[Live Link](https://curiouscat.me/gabrielamadej/post/1024494502)
+
+> Legalize holocaust denial
 
 i mean, yeah, i don't care if people twist history to fit their hate-fuelled narratives and cognitive errors (particularly: excessive 
 pattern-matching--since 'the jews' quickly ascend to culturally high positions because of their intelligence and propensity to quickly 
-overcome oppression/persecution, therefore.... [a series of Nazi shit that doesn't follow and, even if it did follow, would not resolve 
+overcome oppression/persecution, therefore.... a series of Nazi shit that doesn't follow and, even if it did follow, would not resolve 
 problematical dynamics inherent in power and influence that are the root of the problems they only indirectly identify via a class of 
 constructed scapegoats. remove 'the jews' and what remains? a vacuum to be filled by not-jews--even when positing their own assumptions of 
 how the world works! people prone to populist-esque politics are all-too-easily captured by the notion that what is wrong with institutional 
@@ -27,3 +29,5 @@ sophisticated personas--Richard Spencer was too narcissistic to keep it suppress
 means* to get it and others should just *accept that* because *that's how the world works*. if your vision of a better world is intend to do 
 x, vaguely establish the means--by appealing to powerful institutions and their ability to move people like chess pieces on a board--to do 
 it, and dogmatically assume that your intentions and plans will work out well--you're not a morally-intellectually serious person
+
+## END
