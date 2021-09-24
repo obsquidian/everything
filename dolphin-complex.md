@@ -6,7 +6,7 @@
 #### (Edited By Matthew "Obsquidian" Collins)
 #### 19 Min Read
 
-[Live Link](https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d) / [Archive Link](https://archive.ph/fE4Q0)
+[Live Link](https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d) --- [Archive Link](https://archive.ph/fE4Q0)
 
 _Dolphins language is open and hierarchically organised like ours._
 
