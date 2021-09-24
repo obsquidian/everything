@@ -6,6 +6,8 @@
 #### (Edited By Matthew "Obsquidian" Collins)
 #### 19 Min Read
 
+[Live Link](https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d) / [Archive Link](https://archive.ph/fE4Q0)
+
 _Dolphins language is open and hierarchically organised like ours._
 
 The fact that bottlenose dolphins language is open and hierarchically organized means that they can produce a virtually unlimited number 
@@ -34,7 +36,7 @@ In their next work they let the system turned on for long periods of times and r
 
 _Dolphin conversation from From Joshua T. Abbott, Heidi E. Harley, Jenna Clark & Wendi Fellner._
 
-###### They found that dolphins language is open and hierarchically organised like ours.
+#### They found that dolphins language is open and hierarchically organised like ours.
 
 That means they can combine elements in different orders to produce different meanings, they combine elements in blocks of at least 7 
 orders of hierarchical organization. We combine phonemes to produce words, words to produce phrases, phrases in to sentences, sentences in 
@@ -147,7 +149,7 @@ the human language.
 
 ![Image: Dolphin conversation from Vyacheslav A. Ryabov. The study of acoustic signals and the supposed spoken language of the dolphins. Within: Fig. 2. Example of the recordings displaying the sequence of the NP packs produced by Yana (down arrows) and Yasha (up arrows). The numbering of the packs corresponds to their sequence; I and II are the numbers of the recording channels. The sound pressure level (SPL) of the acoustic pulses was normalized to 350 Pa.](https://miro.medium.com/max/606/1*_LVQYY9jV0oKuFCwXBgh1w.png)
 
-#### [Link](https://ac.els-cdn.com/S24057223) --- [PDF](https://ac.els-cdn.com/S2405722316301177/1-s2.0-S2405722316301177-main.pdf?_tid=0560cbe8-960d-44bf-99b8-ac95f7d7f11c&acdnat=1529352928_84bef23510ff8fcbb7eb8a32d6999bef)
+#### [Link](https://ac.els-cdn.com/S24057223) [(PDF)](https://ac.els-cdn.com/S2405722316301177/1-s2.0-S2405722316301177-main.pdf?_tid=0560cbe8-960d-44bf-99b8-ac95f7d7f11c&acdnat=1529352928_84bef23510ff8fcbb7eb8a32d6999bef)
 
 The fact that bottlenose dolphins language is open and hierarchically organized means that they can produce a virtually unlimited number 
 of signals like in human language. That means that like in human language, bottlenose dolphins can speak about any topic and describe any 
