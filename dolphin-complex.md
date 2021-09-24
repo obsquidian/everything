@@ -1,8 +1,7 @@
-https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d
-How Complex is Dolphin Communication?
-Santiago Castro Zaballa
-MEDIUM - PREDICT
-May 22, 2019 · 19 min read
+## START
+
+### Medium Article --- How Complex is Dolphin Communication?
+#### By Santiago Castro Zaballa --- Published May 22, 2019 --- 19 Min Read
 
 Dolphins language is open and hierarchically organised like ours.
 
@@ -424,3 +423,5 @@ humpback whales.
 >>> www.sciencemag.org <<<
 
 Bottlenose dolphins seems to have a more complex language than other species of cetaceans but we need more research to know this for sure.
+
+## END
