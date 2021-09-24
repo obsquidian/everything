@@ -18,7 +18,7 @@ is symbolic for individual sovereignty) and community. if any force should overt
 to have mutual aid networks that either exist outside or bend around the cash nexus is not only highly compatible with market anarchism, it 
 is highly encouraged and desirable. so, communitarian-like institutional arrangements need not be abolished entirely: they just cannot be 
 *dominant*, otherwise dog-eat-dog capitalism just gets played by different rules. charismatic people manipulating direct democracy councils 
-- or whatever model one has in mind - to build up an analogous kind of "social capital" and exclude others from access to resources. as 
+/-/ or whatever model one has in mind /-/ to build up an analogous kind of "social capital" and exclude others from access to resources. as 
 well, as you hinted at, the fact that labouring hands tend to resent idle hands - and i am naturally suspicious of purely communitarian 
 arrangements for reasons like that. 
 
