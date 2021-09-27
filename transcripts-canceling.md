@@ -1,12 +1,13 @@
 ### START
 
-ContraPoints
+ContraPoints 
 Transcripts / Canceling
+[Live Link](https://www.contrapoints.com/transcripts/canceling) --- [Archived Link](https://archive.ph/lsBnq)
 
 This is the transcript for the video essay “Canceling” by Natalie Wynn, originally published on Jan 2, 2020 on the ContraPoints YouTube channel. 
-This transcript is intended as a supplement rather than a substitute for the original video. For references and sources, watch the video here. 
+This transcript is intended as a supplement rather than a substitute for the original video. For references and sources, watch the video [here](https://youtu.be/OjMPJVmXxV8). 
 
-I
+#### I
 
 Okay, let's get started. 
 
@@ -60,7 +61,7 @@ But I think it's pretty obvious how “believe victims” is a norm that's easy 
 
 Anyway, before James had even had a chance to respond to Tati's accusation, the story had already gone from “Tati Westbrook accuses James Charles of trying to trick straight men” to “James Charles tried to trick straight men.” And from there, it was generalized into “James Charles is toxic and manipulative,” which brings us to… 
 
-Cancel Culture Trope Two: Abstraction
+#### Cancel Culture Trope Two: Abstraction
 
 Abstraction replaces the specific, concrete details of a claim with a more generic statement. In the transition from “Tati Westbrook accused James Charles of trying to trick straight men” to “James Charles is toxic and manipulative”, we've lost not only the sense of this being an unverified accusation, but we've also lost all the specific details. “James Charles is toxic and manipulative” is an incredibly vague statement. Itmay as well be “James Charles is bad.” 
 
@@ -74,7 +75,7 @@ And I also want to point out a linguistic shift that's happening here. When the 
 
 But once the claim morphs into “James Charles is toxic and manipulative”, the verb in the sentence is “is”, or “to be”. So these adjectives are characteristics of James, and it's now not his actions we're criticizing, but his personality: his toxicity, and his manipulative-ness. This is what I'll call…
 
-Cancel Culture Trope 3: Essentialism 
+#### Cancel Culture Trope 3: Essentialism 
 
 Essentialism is when we go from criticizing a person's actions to criticizing the person themselves. We're not just saying they did bad things. We’re saying they’re a bad person. 
 
@@ -105,23 +106,22 @@ And that's not to say that everyone canceling James Charles was insincere. But t
 When James was being canceled, I remember being kind of transfixed by the sight of his life and career falling from the sky⁠, full tailspin, black smoke spewing out. And a lot of my YouTube friends were like, "Did you see James Charles was canceled? L-O-L-O-L-O-L-O-L." 
 
 But I looked up at James and I said, “Oh god. That's gonna be me someday. Stay strong sister. Don't let the bastards get you down!” 
-II  
+
+#### II  
 
 So I was doing a little Twitter archeology when I was looking into the James Charles canceling and I found a bunch of tweets referencing earlier James Charles scandals:
 
- 
+> "Y'all forgiving James Charles? He's still a transphobe."
 
-    "Y'all forgiving James Charles? He's still a transphobe."
+> “Y'all are acting like just because James Charles has receipts, he's no longer a racist transphobe, like... "
 
-    “Y'all are acting like just because James Charles has receipts, he's no longer a racist transphobe, like... "
-
-    “James Charles is racist, ableist, transphobic and a sexual predator. A white woman: y'all are being too harsh on him and he's uncanceled." 
+> “James Charles is racist, ableist, transphobic and a sexual predator. A white woman: y'all are being too harsh on him and he's uncanceled." 
 
 So according to Twitter, James Charles is not only a sexual predator, he's also a racist and a transphobe. That sounds pretty serious. Let's investigate. We'll start with the transphobia allegation. Cat girls of the jury, exhibit A: 
 
-    Jeff Wittek: So you're not even full gay? 
+> Jeff Wittek: So you're not even full gay? 
 
-    James Charles: I mean, no, there have been girls in the past that I thought were really beautiful. There's also been trans guys in the past too that I was really really into for a moment in time. 
+> James Charles: I mean, no, there have been girls in the past that I thought were really beautiful. There's also been trans guys in the past too that I was really really into for a moment in time. 
 
 And I oop. 
 
@@ -145,11 +145,11 @@ You know, ignorance is not the same thing as hatred. Not understanding someone i
 
 So by abstraction, we get “James Charles made transphobic comments”. And by essentialism, we get “James Charles is a transphobe”. We don't give him a chance to reflect, we don't give him an opportunity to learn, we go straight to branding him a bigot. Nonetheless, that same week, James posted an apology to his Insta story saying: 
 
-    “Regardless of whatever my intentions were, that came across as me saying I'm not fully gay because I have been with a trans man. And that is absolutely, first of all, not true, like, that doesn't make me not fully gay. But that stereotype and implication is really, really dangerous and I'm very, very sorry. If you are a trans man, you are a man. If you're a trans girl, you are a woman. You are valid in your identity." 
+> “Regardless of whatever my intentions were, that came across as me saying I'm not fully gay because I have been with a trans man. And that is absolutely, first of all, not true, like, that doesn't make me not fully gay. But that stereotype and implication is really, really dangerous and I'm very, very sorry. If you are a trans man, you are a man. If you're a trans girl, you are a woman. You are valid in your identity." 
 
 Could you ask for a better apology? He not only apologizes for what he said, but he also demonstrates a clear understanding of why it was wrong. So does that mean people stopped calling him a transphobe? Of course not. 
 
-Cancel Culture trope 5: No Forgiveness 
+#### Cancel Culture Trope 5: No Forgiveness 
 
 Cancelers will often dismiss an apology as insincere, no matter how convincingly written or delivered. And of course, an insincere apology is further proof of what a Machiavellian psychopath you really are. 
 
@@ -161,7 +161,7 @@ Okay, well that's a little insensitive, maybe. It's not really something an infl
 
 And anyway, he did apologize, saying: 
 
-    "As a white cis male, I recognize my privilege and would never want to take that for granted. But I f*cked up. I feel awful for posting what I said. I understand why what I said was offensive and ignorant." 
+> "As a white cis male, I recognize my privilege and would never want to take that for granted. But I f*cked up. I feel awful for posting what I said. I understand why what I said was offensive and ignorant." 
 
 James hasn't made a habit of making jokes like that ever since. So is this one tweet from two years ago that he apologized for on its own enough evidence for us to justify labeling him a racist? Well, according to cancel culture, absolutely. 
 
@@ -178,7 +178,8 @@ Now, maybe you're thinking, “Destroyed? What do you mean destroyed? James is a
 If you're James Charles, if you're a superstar, then being canceled most likely does not destroy you. The cancelers blend in to the general backdrop of haters. And they can set you back a few million subscribers and a lot of emotional turmoil, but in the long run, they can't really touch your success.
 
 But here's the thing, what if you're not James Charles? What if you're a small creator? What if you can't afford public relations help? What if you belong to a marginalized community and you rely on that community for support? Well in that case, it's a whole different story.
-III
+
+#### III
 
 So this is the part where I should admit that I'm not just a casual observer here. At the time I'm writing this, sweaty, I'm super canceled. 
 
@@ -198,13 +199,13 @@ So the reason for my current cancellation is, in summary, that in my last video,
 
 So basically I'm canceled for collaborating with Buck Angel and a lot of trans people think Buck Angel is a horrible person. And so my collaboration with Buck Angel is evidence that I too am a horrible person. 
 
-Cancel Culture Trope 6: The Transitive Property of Cancellation 
+#### Cancel Culture Trope 6: The Transitive Property of Cancellation 
 
 Cancellation is infectious. If you associate with a canceled person, the cancellation rubs off. It's like gonorrhea, except doxycycline won't save you this time sweetie. 
 
 Look, this whole incident hinges, first of all, on whether Buck Angel is in fact a horrible person. So who is Buck Angel? Well, he's a trans man of my parents' generation. He grew up in a world where there was not anything like the visibility and access to information about transition we have today, and where there was a strict medical gatekeeping system in place for people who wanted to transition. In fact, Buck was the first female to male patient his doctor had ever treated. 
 
-In the 2000s, he rose to prominence as an adult performer, his gimmick at the time being “the man with a p*ssy”. But he also became an activist. He wanted to create more positive trans representation within the porn world. And from there, he became a more general educator and advocate for trans people. 
+In the 2000s, he rose to prominence as an adult performer, his gimmick at the time being “the man with a pxssy”. But he also became an activist. He wanted to create more positive trans representation within the porn world. And from there, he became a more general educator and advocate for trans people. 
 
 I first heard about him in the early 2010s when I was doing some googling about some little gender issues I was having myself, although I ended up deciding to remain a female. And Buck was one of the first female-to-male people I'd ever heard about. And he made an impact on me in part because you take one look at him and you think, “Honey, that's a man. But he was born a woman...You can do that?” 
 
@@ -212,11 +213,11 @@ It's not that he inspired me to transition or anything, it was just one of many 
 
 So I had positive feelings about Tranpa (that's what he calls himself) from back then, and then a few months ago when I was feeling angry and miserable and despised over another time I was being canceled by trans Twitter (we'll get to that one later) I saw this post from Buck on Instagram: 	
 
-    "Dear beautiful human being, I see your pain. It is okay that you lash out at me. You do this because I am you and you are reflecting your self hate to me. I am strong and will be here for you forever and no matter what. This is my intention as a human being, to help others. Love, Buck Angel." 
+> "Dear beautiful human being, I see your pain. It is okay that you lash out at me. You do this because I am you and you are reflecting your self hate to me. I am strong and will be here for you forever and no matter what. This is my intention as a human being, to help others. Love, Buck Angel." 
 
 And then the caption: 
 
-    "Suffering. That is why the trans community lashes out at each other. I am very aware of the hate towards me by some in the community. They hate on me and others because they are hurt." 
+> "Suffering. That is why the trans community lashes out at each other. I am very aware of the hate towards me by some in the community. They hate on me and others because they are hurt." 
 
 And those were exactly the words I needed to hear at that moment. So I commented a heart, and then Buck DMed me and he said, "I love you." And I was like, “Senpai noticed me!” and so I said “I love you” back. 
 
@@ -226,9 +227,7 @@ I just loved the idea of having “Buck Angel as John Waters” in the video cre
 
 So here it is, the 10 second voiceover clip that ruined a month of my life:
 
- 
-
-    "One must remember, there is such a thing as good bad taste and bad bad taste. To understand bad taste, one must have very good taste."
+> "One must remember, there is such a thing as good bad taste and bad bad taste. To understand bad taste, one must have very good taste."
 
 That's it, children. That's why mommy's canceled. 
 
@@ -240,7 +239,7 @@ Basically, it all goes back to this old debate in the trans community known toda
 
 Usually, truscum think that what it is to be trans is to have a lifelong struggle with dysphoria, to pursue a medical transition involving hormones and surgery, and to socially re-assimilate into your target binary gender; so male or female. Anyone who is not that, according to truscum, must either be a confused teenager, someone just trying to get attention, or someone mistaking their trauma or their fetish for being trans⁠— in a word, a trender. 
 
-So that's a vish of transness that usually excludes non-binary people as well as people who don't want to medically transition for whatever reason. And for that reason, this view is sometimes also called transmedicalism, “truscum” obviously being the derogatory term for these people. 
+So that's a *vish* of transness that usually excludes non-binary people as well as people who don't want to medically transition for whatever reason. And for that reason, this view is sometimes also called transmedicalism, “truscum” obviously being the derogatory term for these people. 
 
 Truscum are very hated by a lot of trans people because their viewpoint is that not all trans identities are valid. And Buck Angel is widely perceived to be truscum. So the next question to ask is, “Is this true? Is Buck Angel, in fact, truscum?” 
 
@@ -268,9 +267,9 @@ And that's why I'm willing to work with people like Buck Angel who I have some d
 
 I get that some people have views that are so harmful that giving them a platform is potentially dangerous. But in any case, I didn't even give Buck a platform to share his opinions. I gave him a platform to be a John Waters impersonator. 
 
-A bunch of people on my subReddit were like, “Why couldn't she just get John Waters to do those lines?” Well first of all, I don't actually know John, but I just have a feeling he would write me off as some kind of tr*nny millennial SJW. I mean, why is Buck Angel canceled but John Waters isn't? Well, because trans Twitter does not know who John Waters is and let's try to keep it that way. 
+A bunch of people on my subReddit were like, “Why couldn't she just get John Waters to do those lines?” Well first of all, I don't actually know John, but I just have a feeling he would write me off as some kind of trxnny millennial SJW. I mean, why is Buck Angel canceled but John Waters isn't? Well, because trans Twitter does not know who John Waters is and let's try to keep it that way. 
 
-I actually mentioned this to a friend of mine who knows John and he told me that he and John have actually watched Buck Angel's p*rn together. So... plot twist! 
+I actually mentioned this to a friend of mine who knows John and he told me that he and John have actually watched Buck Angel's pxrn together. So... plot twist! 
 
 Okay, so trans Twitter won't forgive me unless I condemn Buck Angel as truscum and apologize for ever working with him. But I'm not going to do that because I don't think it would be the right thing to do, and doing it just to get myself uncanceled would be cowardly.
 
@@ -278,15 +277,17 @@ I'm happy to tell you that I absolutely disagree with Buck's divisive rhetoric a
 
 But I also respect the decades of good activism Buck Angel has done for trans people and I am grateful to him for that. And in light of that, I'm willing to give him the benefit of the doubt about where his heart is and express my criticism in a more measured way than just attacking who he is as a person. 
 
-But Twitter needs to establish that he's a horrible person because this is the strategy they've chosen to establish that I am a horrible person. And if the truscum allegation isn't strong enough to prove it, oh, they have other pieces of evidence to fall back on to hold up their conclusion. For example, here's a tweet claiming: 
+But Twitter needs to establish that he's a horrible person because this is the strategy they've chosen to establish that I am a horrible person. And if the truscum allegation isn't strong enough to prove it, oh, they have other pieces of evidence to fall back on to hold up their conclusion. 
 
-    "Natalie's trying so fucking hard to make it sound like the only thing Buck Angel ever did was write a few iffy tweets, and that's just so fucking far from the truth. Dude launched a targeted tabloid harassment campaign outing a trans woman against her will with a specific intent of causing her physical, emotional and professional harm. The shorter way of saying that is that he wanted to make her suffer and she very well could have been killed." 
+For example, here's a tweet claiming: 
+
+> "Natalie's trying so fucking hard to make it sound like the only thing Buck Angel ever did was write a few iffy tweets, and that's just so fucking far from the truth. Dude launched a targeted tabloid harassment campaign outing a trans woman against her will with a specific intent of causing her physical, emotional and professional harm. The shorter way of saying that is that he wanted to make her suffer and she very well could have been killed." 
 
 Yikes, this ain't it chief. Friendly reminder that this isn't a good look. Maybe don't try to get trans women killed? Disappointing. 
 
 It sounds pretty serious, let's investigate. Here's what I've managed to piece together. 
 
-Scene one, the year is 2003, Los Angeles, where the movie world, the porn world and the BDSM scene come together in a tale of heartbreak, betrayal and transsexualism: La La Land! 
+Scene one, the year is 2003, Los Angeles, where the movie world, the porn world and the BDSM scene come together in a tale of heartbreak, betrayal and transsexualism: *La La Land!* 
 
 Dramatis personae: Buck Angel, transsexual porn star; Ilsa Strix, dominatrix, then wife of Buck Angel; Lana Wachowski, wildly successful director of The Matrix, and at the time, not yet out as a transgender woman. The synopsis is that Ilsa Strix and Buck Angel's marriage ended after Ilsa had an affair with Lana Wachowski who was not yet out as trans. 
 
@@ -300,16 +301,17 @@ So I actually went on eBay and I purchased Rolling Stone issue 991, January 2006
 
 ...that the seller canceled the order. Goddammit! But I was finally able to track down and translate a Spanish version of the Rolling Stone article from the Wayback Machine, and I'm finally able to expose the truth. 
 
-Stop. Freeze exactly where you are. Take a look at yourself and what all of us have been doing for the last 30 seconds. Who does this behavior remind you of? If your answer is social justice advocates fighting for trans equality, you are incorrect. If your answer is creepy stalkers who hate trans people... ding! ding! ding! 
+**Stop.** Freeze exactly where you are. Take a look at yourself and what all of us have been doing for the last 30 seconds. Who does this behavior remind you of? If your answer is social justice advocates fighting for trans equality, you are incorrect. If your answer is creepy stalkers who hate trans people... ding! ding! ding! 
 
 I am very suspicious of anyone whose online behavior prompts me to dig through articles full of dead names and sordid scandals involving trans people from almost two decades ago. This is very similar to techniques used against trans people by internet fascists. So I'm pretty suspicious of anyone pushing this kind of investigation. 
 
 How can you tell the difference between a trans-anarcho socialist with an anime avatar and a Nazi pretending to be a trans-anarcho socialist with an anime avatar? Well, you can't. Anonymous is anonymous is anonymous, whether it's on 4chan or Twitter. 
 
 So unless Buck Angel, Ilsa Strix or Lana Wachowski gets in touch with me and lets me know that for some unimaginable reason they want me to publicly dig up their 17-year old divorce drama, this is none of my fucking business. And it's none of yours either. So shut up, and go back to Kiwi Farms where you belong. 
-IV
 
-So setting aside any tabloid drama that may have happened during the Bush administration—I'm saying this is in the cuntiest way, and they deserve it. They fucking deserve the cuntiness.
+#### IV
+
+So setting aside any tabloid drama that may have happened during the Bush administration — I'm saying this is in the cuntiest way, and they deserve it. They fucking deserve the cuntiness.
 
 The main argument against me usually references a collage of Buck Angel's problematic tweets. And this is supposed to be definitive evidence that he is a horrible person, and therefore, that I am a horrible person for collaborating with him. 
 
@@ -331,7 +333,7 @@ I've also made at least five videos on this channel arguing for the validity of 
 
 But there's still hundreds of people on Twitter saying that I'm a truscum who hates non-binary people. And their main piece of evidence for that is a collage of my problematic tweets. So let's take a look at that. Here are the three tweets that I usually see scrapbooked together as definitive proof that I hate non-binary people. 
 
-    Tweet I: "I'm sure this is not the experience of many NBs. NB means non-binary people. I leave it to them to articulate what NB existence looks like in a binary world. I do not and I can not speak for them. But surely", (god, I used to write like such a nerd) "an account that begins and ends with ‘I'm not a man because I don't identify as one’ is pretty weak." 
+> Tweet I: "I'm sure this is not the experience of many NBs. NB means non-binary people. I leave it to them to articulate what NB existence looks like in a binary world. I do not and I can not speak for them. But surely", (god, I used to write like such a nerd) "an account that begins and ends with ‘I'm not a man because I don't identify as one’ is pretty weak." 
 
 This is from September, 2018, and is taken out of context from the rest of the thread, so you can't even see what I'm talking about.
 
@@ -373,29 +375,29 @@ You know, some things in life just can't be rationally explained. Like love. Why
 
 And why am I a woman? Because I'm a woman. That's it. I mean, I can describe my experiences and my feelings to you to help you understand better, but I can't logically prove anything. And I'm super fucking sorry if you can't handle that mankind was set adrift in an absurd world. That must be super fucking hard for you. Tell me all about it. 
 
-Next, please. 
+#### Next, please. 
 
-    Tweet 2 (mid-thread, missing context):  "Whereas I've met 20 year olds in full-on boy mode who are like ‘Hi, I'm a trans woman, she-her pronouns.’” 
+> Tweet 2 (mid-thread, missing context):  "Whereas I've met 20 year olds in full-on boy mode who are like ‘Hi, I'm a trans woman, she-her pronouns.’” 
 
 I guess by including this tweet in the “ContraPoints is problematic” collage, people are implying that I don't think it's valid for someone who presents male to identify as a woman and requests she/her pronouns. Well, that's not true. I was surprised when I first experienced this, but I think it's valid. 
 
 Next.
 
-    Tweet 3 (Mid-thread and missing context, again): "But now you go into these leftist discord/Facebook groups and like 20 to 30% identify as some flavor of trans, most of them are not conventional binary transsexuals. That seems to be the future."
+> Tweet 3 (Mid-thread and missing context, again): "But now you go into these leftist discord/Facebook groups and like 20 to 30% identify as some flavor of trans, most of them are not conventional binary transsexuals. That seems to be the future."
 
 Okay, well, it's true that many leftist discord servers are like this. But reading this back, I don't like the way the phrase “conventional binary transsexuals” is hitting my ear. I can see how it could imply that non-binary identities are somehow newfangled, which isn't true. There's been non-binary people for longer than there's been medical transsexuals, in fact. So we'll call this a bad tweet. I apologize for tweeting it and I apologize to any non-binary people who felt trivialized by it. 
 
-Okay, this next tweet is a big one is the big one. It got its own article in the f*cking Guardian. You know, I really wish people would pay less attention to the tweets I spend 30 seconds writing, and a little more attention to the videos that I spend, you know, hundreds of hours making. Anyway, let's look at the tweet. 
+Okay, this next tweet is a big one is the big one. It got its own article in the fxcking Guardian. You know, I really wish people would pay less attention to the tweets I spend 30 seconds writing, and a little more attention to the videos that I spend, you know, hundreds of hours making. Anyway, let's look at the tweet. 
 
-    Tweet 4: This has happened to me before in hyper woke spaces. Like it's me and a bunch of cis women and we all have to go in a circle saying she-her because I'm there.
+> Tweet 4: This has happened to me before in hyper woke spaces. Like it's me and a bunch of cis women and we all have to go in a circle saying she-her because I'm there.
 
-    “There's this paradox where I can go to a sports bar in North Carolina and be miss-ma'amed all night, no question. But in self-consciously trans-inclusive spaces, I have to explain my pronouns and watch woke people awkwardly correct themselves every time they say ‘you guys.’ 
+> “There's this paradox where I can go to a sports bar in North Carolina and be miss-ma'amed all night, no question. But in self-consciously trans-inclusive spaces, I have to explain my pronouns and watch woke people awkwardly correct themselves every time they say ‘you guys.’ 
 
-    I guess it's good for people who use they-them only and want only gender-neutral language, but it comes at the minor expense of semi-passible transes like me, and that's super f*cking hard for us.
+> I guess it's good for people who use they-them only and want only gender-neutral language, but it comes at the minor expense of semi-passible transes like me, and that's super fxcking hard for us.
 
 So people interpreted this tweet as me being against the practice of sharing pronouns, which I'm literally just not. I've actually been the person who initiates the pronoun circle many times. 
 
-The backstory of this tweet is basically that I once got triggered in a situation where I was with a bunch of cis women and we all had to go around saying our pronouns. And like a typical triggered tr*nny, I tiptoed over to Twitter, to tip-tap-type it out. 
+The backstory of this tweet is basically that I once got triggered in a situation where I was with a bunch of cis women and we all had to go around saying our pronouns. And like a typical triggered trxnny, I tiptoed over to Twitter, to tip-tap-type it out. 
 
 But here's the thing: by the end of this thread, I had already talked myself away from the initial frustration I was expressing. If you know my videos and my voice, then you know me saying, "It comes at the minor expense of semi passible transes, and that's super fucking hard for us", is sarcastic. It's a minor expense. It's not actually very hard for us, gorg, it's fine. But people on Twitter don't watch my videos and they don't get sarcasm.
 
@@ -410,7 +412,8 @@ I guess I basically meant that, offline, I don't have any radical aspirations. I
 It's funny, because it’s very different from the way I am online, where I'm totally shameless and open. I'm like “sexual confession everybody, sexual confession! I have abnormal urges!” (It's 1:00 a.m. and my neighbors can definitely hear me yelling that. They know I have abnormal urges now. It’s fine, they already knew that) 
 
 But offline, I'm an inconspicuous pussy, like a total coward. So this was a rage thread and I apologize for tweeting it. 
-V
+
+#### V
 
 Let's go back to Buck Angel. 
 
@@ -452,109 +455,109 @@ But with people on Twitter, it's a different story. And I think it's time we tak
 
 I've given you enough context now for you to understand what I'm about to show you, which is what I saw on my timeline every day for nearly a month. All these tweets are from the aftermath of my uploading Opulence two months ago, when the Buck Angel scandal first broke. And someone better hold my hand now because this gets ugly. 
 
-    “Hey, if any of you still support ContraPoints after her bigging up and collaborating with notable TERF favorite and truscum, Buck Angel, you're no friend to gender nonconforming, non-passing and non-binary trans people. Fuck her and fuck her fucking grift. I am absolutely furious right now.” 
+> “Hey, if any of you still support ContraPoints after her bigging up and collaborating with notable TERF favorite and truscum, Buck Angel, you're no friend to gender nonconforming, non-passing and non-binary trans people. Fuck her and fuck her fucking grift. I am absolutely furious right now.” 
 
-    “Weird how I'm 30 and trans and managed not to be a truscum. Maybe I'm just some kind of anomaly, or maybe ContraPoints is a conniving rat-fucking kapo who could do with a fully wound backhand to the mouth.” 
+> “Weird how I'm 30 and trans and managed not to be a truscum. Maybe I'm just some kind of anomaly, or maybe ContraPoints is a conniving rat-fucking kapo who could do with a fully wound backhand to the mouth.” 
 
-    “Since I'm out of Twitter jail for now, I just want to say fuck ContraPoints, her sycophantic stans and all her BreadTube chums who closed ranks to protect her after she throws the rest of the trans community under the bus for profit.” 
+> “Since I'm out of Twitter jail for now, I just want to say fuck ContraPoints, her sycophantic stans and all her BreadTube chums who closed ranks to protect her after she throws the rest of the trans community under the bus for profit.” 
 
-    “Natalie Wynn is a fucking grifter.”
+> “Natalie Wynn is a fucking grifter.”
 
-    "ContraPoints videos are now just style over substance so that explains why she took to TERF ideology so well.” 
+> "ContraPoints videos are now just style over substance so that explains why she took to TERF ideology so well.” 
 
-    “ContraPoints working with truscum now definitively proves that pretty much everyone defending ContraPoints just hates NBs and are also truscum, legit gonna start on following peeps that continue to follow ContraPoints at this point. Do note my wording of pretty much everyone. I know there are some that were probably blindsided by this somehow. So long as you know that ContraPoints is truscum, you're safe and cool.” 
+> “ContraPoints working with truscum now definitively proves that pretty much everyone defending ContraPoints just hates NBs and are also truscum, legit gonna start on following peeps that continue to follow ContraPoints at this point. Do note my wording of pretty much everyone. I know there are some that were probably blindsided by this somehow. So long as you know that ContraPoints is truscum, you're safe and cool.” 
 
-    “Eat shit, Natalie. For someone who used to identify as gender-queer, we expected more from you. But I guess when your heads this far up your own ass, it's hard to consider others.” 
+> “Eat shit, Natalie. For someone who used to identify as gender-queer, we expected more from you. But I guess when your heads this far up your own ass, it's hard to consider others.” 
 
-    “ContraPoints, more like disappoints.” 
+> “ContraPoints, more like disappoints.” 
 
 Oh, that's a good one. If you're gonna drag me, at least be funny. 
 
-    “Fuck Buck Angel, fuck ContraPoints, fuck any real transsexual.” 
+> “Fuck Buck Angel, fuck ContraPoints, fuck any real transsexual.” 
 
-    “Fuck your grift.”
+> “Fuck your grift.”
 
-    “Here's what #ContraPoints stans don't understand. If Natalie refuses to accept that she has an apology to make and continues profiting from it, it will become our responsibility to work on de-platforming her, just like every other racist, sexist, bigoted content creator.” 
+> “Here's what #ContraPoints stans don't understand. If Natalie refuses to accept that she has an apology to make and continues profiting from it, it will become our responsibility to work on de-platforming her, just like every other racist, sexist, bigoted content creator.” 
 
-    “No one has actually suggested or attempted to actually cancel her, but the longer this goes on without an apology and commitment to be better, the stronger the case becomes for actively working to de-platform her.” 
+> “No one has actually suggested or attempted to actually cancel her, but the longer this goes on without an apology and commitment to be better, the stronger the case becomes for actively working to de-platform her.” 
 
 So in other words, “No one has suggested we cancel her, but we should cancel her” ...Great.
 
-    “Can everyone finally agree that ContraPoints belongs directly inside a garbage can.” 
+> “Can everyone finally agree that ContraPoints belongs directly inside a garbage can.” 
 
 Here I am, sweetie. 
 
-    “ContraPoints collaborating with Angel Buck…” 
+> “ContraPoints collaborating with Angel Buck…” 
 
 ‘Angel Buck’. Thanks for letting us all know that you had no idea who he even was until Twitter notified you what to be outraged about. 
 
-    “ContraPoints collaborating with Angel Buck, a transmedicalist who once outed a trans person to try and destroy them, and supporting him because he looks and sounds like a proper man isn't a small itty bitty, tipsy topsy fucking mistake. This is a huge deal.” 
+> “ContraPoints collaborating with Angel Buck, a transmedicalist who once outed a trans person to try and destroy them, and supporting him because he looks and sounds like a proper man isn't a small itty bitty, tipsy topsy fucking mistake. This is a huge deal.” 
 
-    “ContraPoints could be literally collaborated with Hitler..." 
+> “ContraPoints could be literally collaborated with Hitler..." 
 
 Ding! ding! We have a Hitler comparison! 
 
-    “...could be literally collaborating with Hitler today and y'all would be like ‘oh well, she's just a little flawed, you know?’ Fuck off.” 
+> “...could be literally collaborating with Hitler today and y'all would be like ‘oh well, she's just a little flawed, you know?’ Fuck off.” 
 
-    “Can Natalie Wynn stop being a coward and commit to being a trans-med, it's really tiring to watch this happen every week.”
+> “Can Natalie Wynn stop being a coward and commit to being a trans-med, it's really tiring to watch this happen every week.”
 
-     “Natalie Wynn is a spoiled brat who refuses to take accountability.” 
+> “Natalie Wynn is a spoiled brat who refuses to take accountability.” 
 
-    “Anyone who supports Natalie Wynn does not support non-binary people.”
+> “Anyone who supports Natalie Wynn does not support non-binary people.”
 
-    “Natalie Wynn is such a terrible person, my god.”
+> “Natalie Wynn is such a terrible person, my god.”
 
-    “Every cis and not non-binary person who thought Natalie Wynn wasn't trans-med now owes me and every non-binary person $50.” 
+> “Every cis and not non-binary person who thought Natalie Wynn wasn't trans-med now owes me and every non-binary person $50.” 
 
-    “Joe Biden has a better position on the validity of non-binary gender than ContraPoints.” 
+> “Joe Biden has a better position on the validity of non-binary gender than ContraPoints.” 
 
-    “My opinion is that ContraPoints really sucks a lot and I don't like her.” 
+> “My opinion is that ContraPoints really sucks a lot and I don't like her.” 
 
-    “I hate ContraPoints so goddamn much, it's unbelievable.” 
+> “I hate ContraPoints so goddamn much, it's unbelievable.” 
 
-    “Buck Angel is a TERF apologizer, boot licker and truscum. Any association with him must be seen as hostile to the trans community as a whole, let alone denial of non-binary existence. That's the line in the sand, folks where do you stand?” 
+> “Buck Angel is a TERF apologizer, boot licker and truscum. Any association with him must be seen as hostile to the trans community as a whole, let alone denial of non-binary existence. That's the line in the sand, folks where do you stand?” 
 
-    “And here we fucking are dude. Buck-fucking-Angel on ContraPoints. Eat my entire ass!” 
+> “And here we fucking are dude. Buck-fucking-Angel on ContraPoints. Eat my entire ass!” 
 
 Wait… what!? 😂
 
-    “Issues that arose with Buck Angel being in Contra's new video: - Her video on terfs makes no sense now. - Her video on transtrenders makes no sense now…” 
+> “Issues that arose with Buck Angel being in Contra's new video: - Her video on terfs makes no sense now. - Her video on transtrenders makes no sense now…” 
 
 You know, if your interpretation of why I cast Buck Angel totally contradicts the videos I spent hundreds of hours making, do you think maybe your interpretation could be wrong? Apparently not. 
 
-    “...- Her apology is completely void- sends a message that she hates non-binary people. - She is reckless with her content. Positives that arose from Buck Angel being in Contra's new video:- she has $400,000 this month from Patreon…” 
+> “...- Her apology is completely void- sends a message that she hates non-binary people. - She is reckless with her content. Positives that arose from Buck Angel being in Contra's new video:- she has $400,000 this month from Patreon…” 
 
 $400,000?! This number is completely made-up. It is exponentially wrong! 
 
-    “Hot take: ContraPoints is the leftist PewDiePie. Personally, I like to characterize her as the Blaire White Wolf in leftist sheep's clothing.” 
+> “Hot take: ContraPoints is the leftist PewDiePie. Personally, I like to characterize her as the Blaire White Wolf in leftist sheep's clothing.” 
 
-    “Reminder that ContraPoints is a piece of sh*t who still has not apologized for platforming truscum and is actively taking their side.” 
+> “Reminder that ContraPoints is a piece of sh*t who still has not apologized for platforming truscum and is actively taking their side.” 
 
-    “Anyway, if you still support ContraPoints, get the hell away from me!” 
+> “Anyway, if you still support ContraPoints, get the hell away from me!” 
 
-    “Pee pee, poo poo, I'm ContraPoints and I can't stop being a transmedicalist and sh*tting myself in public bwuh." 
+> “Pee pee, poo poo, I'm ContraPoints and I can't stop being a transmedicalist and sh*tting myself in public bwuh." 
 
 …Valid criticisms of marginalized people 🥴...  
 
-    “Fuck ContraPoints, fuck truscum.” 
+> “Fuck ContraPoints, fuck truscum.” 
 
-    “ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum…” 
+> “ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum. ContraPoints is a truscum…” 
 
 You know, when you repeat the same fucking sentence over and over again, it doesn't actually get more persuasive. In fact, it might get less persuasive, because true things usually only have to be said once.
 
-    ‘If you still support ContraPoints, unfollow me immediately and never interact with me again.” 
+> ‘If you still support ContraPoints, unfollow me immediately and never interact with me again.” 
 
-    “In conclusion, fuck Natalie Wynn and fuck everything she has to say.”
+> “In conclusion, fuck Natalie Wynn and fuck everything she has to say.”
 
-VI
+#### VI
 
 So that was just a sample of hundreds and hundreds of tweets. And all of this, let me remind you, is over a 10-second voice-over clip in a 48 minute video about a completely unrelated topic. I mean, How do you work, how do you create, when a decision so trivial can become the main event for weeks of your life? 
 
 And the tweets are just the beginning. After that there's the Reddit threads and the YouTube comments AND the Facebook discourse AND the medium posts, and the Newsweek article. 
 
-Opulence is a video me and Theryn spent hundreds of hours carefully piecing together. I think it's my best video. And to have the response to it completely overwhelmed by one minor casting decision is heartbreaking and infuriating to me. And it's left me with much less energy to create new things. But here's the thing, people on Twitter saying mean things about me is not the worst of it—not even close. 
+Opulence is a video me and Theryn spent hundreds of hours carefully piecing together. I think it's my best video. And to have the response to it completely overwhelmed by one minor casting decision is heartbreaking and infuriating to me. And it's left me with much less energy to create new things. But here's the thing, people on Twitter saying mean things about me is not the worst of it — not even close. 
 
-I mean, I'm a politically opinionated trans woman who publicly transitioned while making anti-fascist content on a notoriously right-wing platform. Sweaty, I am so used to reading mean things about myself online, most of you probably can't even begin to imagine how used to it I am. And the way you psychologically survive in that situation is you block the people andplatforms who are harassing you, and you pay it no mind. 
+I mean, I'm a politically opinionated trans woman who publicly transitioned while making anti-fascist content on a notoriously right-wing platform. Sweaty, I am so used to reading mean things about myself online, most of you probably can't even begin to imagine how used to it I am. And the way you psychologically survive in that situation is you block the people and platforms who are harassing you, and you pay it no mind. 
 
 But there's some things you can't block. And a big one is that you can't block people from going after your friends and colleagues. And that is exactly what people did to me at the height of the Buck Angel incident. 
 
@@ -562,35 +565,31 @@ Lindsay Ellis, Olly from Philosophy Tube and Hbomberguy all got inundated with t
 
 In response to demands that she apologize, Lindsay released a statement where she said:
 
- 	
-
-    "I was not involved in Opulence. My name was mentioned in it, but I did not participate in the production. Therefore, with regards to calls for me to apologize, I have to ask, apologize for what? There is only one logical answer: apologize for being friends with Natalie."
-
- 
+> "I was not involved in Opulence. My name was mentioned in it, but I did not participate in the production. Therefore, with regards to calls for me to apologize, I have to ask, apologize for what? There is only one logical answer: apologize for being friends with Natalie."
 
 And here's a response to her statement: 
 
-    "I don't need to consider you my fucking friend to disagree with beliefs you knowingly solicit or allow on your platform. Same with Contra, it just means you're willing to allow awful ideas to fester for the sake of financial gain which is fine, but it makes you a piece of shit." 
+> "I don't need to consider you my fucking friend to disagree with beliefs you knowingly solicit or allow on your platform. Same with Contra, it just means you're willing to allow awful ideas to fester for the sake of financial gain which is fine, but it makes you a piece of shit." 
 
 And here's a comment at Hbomberguy: 
 
-    “I doubt that you were gonna read this, but can you please just tell us your thoughts on that whole situation so we could at least know that you are on our side. We don't want to have to cancel all of y'all and cause BreadTube to go into a schism as a result of this, thank you.” 
+> “I doubt that you were gonna read this, but can you please just tell us your thoughts on that whole situation so we could at least know that you are on our side. We don't want to have to cancel all of y'all and cause BreadTube to go into a schism as a result of this, thank you.” 
 
 In other words, “Nice YouTube channel you have there, friend. It would be a shame if someone canceled it.” So fucking sinister. 
 
 Olly of PhilosophyTube released his own statement affirming his support of non-binary people, but adding: 
 
-    “Sadly, I've also been harassed, threatened, doxxed, had my private life speculated on and my loved ones insulted... in recognizing the feelings of those who kindly raised their concerns in a polite way, I do not wish to legitimize the great many people who use their hurt as a cover for unacceptable toxic and abusive behavior.” 
+> “Sadly, I've also been harassed, threatened, doxxed, had my private life speculated on and my loved ones insulted... in recognizing the feelings of those who kindly raised their concerns in a polite way, I do not wish to legitimize the great many people who use their hurt as a cover for unacceptable toxic and abusive behavior.” 
 
 And here are some responses to Olly: 
 
-    “As a non-binary fan of yours, I'm disappointed in this non-apology." 
+> “As a non-binary fan of yours, I'm disappointed in this non-apology." 
 
 Again, what exactly is he supposed to be apologizing for? Ever having associated with me? 
 
-    “Things we are going to criticize Olly PhilosophyTube for: - being a sniveling hypocritical piece of sh*t - refusing to listen to trans people - actively, openly and repeatedly mocking the trans people he refuses to listen to.” 
+> “Things we are going to criticize Olly PhilosophyTube for: - being a sniveling hypocritical piece of shxt - refusing to listen to trans people - actively, openly and repeatedly mocking the trans people he refuses to listen to.” 
 
-    "Thanks for the apology, now stop endorsing ContraPoints." 
+> "Thanks for the apology, now stop endorsing ContraPoints." 
 
 Now keep in mind that what these Twitter people are doing is demanding that cis people publicly condemn a trans woman for loosely associating with another trans person. Does that strike anyone else as wildly inappropriate? 
 
@@ -598,11 +597,11 @@ Even Mia Mulder, a trans woman who has never publicly associated with me, got at
 
 And just for that, she gets put on the enemy list: 
 
-    “I'm sad to say that Mia is on the list of people that have stood by ContraPoints as she had continued to be a bigoted piece of shit.” 
+> “I'm sad to say that Mia is on the list of people that have stood by ContraPoints as she had continued to be a bigoted piece of shit.” 
 
 To which Mia responds: 
 
-    “Stood by ContraPoints, Jesus Christ. No matter what I do, people call me out and I'm not even related to the video and I don't even know Natalie!” 
+> “Stood by ContraPoints, Jesus Christ. No matter what I do, people call me out and I'm not even related to the video and I don't even know Natalie!” 
 
 The chain of guilt by association is so long and twisted, I can barely even follow it. So they're going after Mia, who tweeted a heart at Olly, who failed to condemn me for my voice-over casting of Buck Angel, who was retweeted by a TERF... We're only missing a couple of degrees of separation before every living person on the planet Earth is canceled over “the Buck Angel situation.”
 
@@ -610,7 +609,7 @@ And several colleagues of mine, by the way— Lindsay, Harry, Olly ⁠— they a
 
 One of Lindsay's former supporters even demanded a $38 lifetime refund, saying:
 
-    Dear Lindsay, I'm sorry for being pushy, but I really am going to be needing a refund. I gave money to your operation under the pretense that you wouldn't do anything morally objectionable and supporting ContraPoints and blaming us for taking issue with thought is, in my opinion, amoral. Please respond." 
+> "Dear Lindsay, I'm sorry for being pushy, but I really am going to be needing a refund. I gave money to your operation under the pretense that you wouldn't do anything morally objectionable and supporting ContraPoints and blaming us for taking issue with thought is, in my opinion, amoral. Please respond." 
 
 I hope she sent it to them in pennies. 
 
@@ -629,7 +628,8 @@ There's a fairly prominent figure in leftist politics who I could absolutely #Me
 And I'm not saying I'm totally against MeToo-ing people, because I think, in some cases, it totally is the brave and admirable thing to do. But in my case, I feel like I just know too much about the dark side of social media shaming to ever want to participate in it again. I feel like the story would end up being taken out of my control, warped and twisted in all kinds of unpredictable ways. It would end up just haunting both me and the person I'd be accusing, which, in this case, honestly, neither of us deserves. So I'm just not willing to take that risk, except maybe in some very extreme situation which this just isn't. It’s not worth it.  
 
 And likewise, when a mob is at my doorstep demanding I condemn Buck Angel to save myself from cancellation... no! I'm just not gonna do that. I'm a conscientious objector. I'm willing to go to Twitter jail for this. Take me away, boys!
-VII
+
+#### VII
 
 If there's one thing I can't stand it's BreadTube videos. “Part Eight and a Half: The Philosophy of Being Fucked In The Ass” 😑*groans* I have done this to YouTube and I'm sorry. 
 
@@ -637,7 +637,7 @@ So look, canceling is not criticism. It is not holding someone accountable. It i
 
 The BITCH Manifesto was originally published in Ms. Magazine in 1976, but it is a perfect description of what goes on on trans Twitter today:
 
-    “It is not disagreement, it is not conflict, it is not opposition. These are perfectly ordinary phenomena which, when engaged in mutually, honestly and not excessively, are necessary to keep an organism or organization healthy and active… Trashing is a particularly vicious form of character assassination which amounts to psychological rape. It is manipulative, dishonest and excessive. It is occasionally disguised by the rhetoric of honest conflict, or covered up by denying that any disapproval exists at all. But it is not done to expose disagreements or resolve differences. It is done to disparage and destroy. Whatever methods are used, trashing involves a violation of one's integrity, a declaration of one's worthlessness, and an impugning of one's motives. In effect, what is attacked is not one's actions, or one's ideas but one's self.” 
+> “It is not disagreement, it is not conflict, it is not opposition. These are perfectly ordinary phenomena which, when engaged in mutually, honestly and not excessively, are necessary to keep an organism or organization healthy and active… Trashing is a particularly vicious form of character assassination which amounts to psychological rape. It is manipulative, dishonest and excessive. It is occasionally disguised by the rhetoric of honest conflict, or covered up by denying that any disapproval exists at all. But it is not done to expose disagreements or resolve differences. It is done to disparage and destroy. Whatever methods are used, trashing involves a violation of one's integrity, a declaration of one's worthlessness, and an impugning of one's motives. In effect, what is attacked is not one's actions, or one's ideas but one's self.” 
 
 And that's what distinguishes trashing, bullying or abuse from criticism or holding accountable. Criticism attacks your actions or beliefs. But when people are canceling me, they're not bringing up my problematic tweets because they want me to revise my beliefs. No, what they're doing is accumulating evidence to support the case they've decided to make that I am a horrible person who must be shunned. 
 
@@ -649,7 +649,7 @@ Vanessa, I'm trying to feud with you. Feud with me, goddamnit. You can't have a 
 
 I'm the enemy. And what do you do with the enemy? Well, you disavow, disown, deplatform and destroy. As that one tweet put it, "That's the line in the sand, folks, where do you stand?" If you adequately demonstrate your searing hatred of Natalie Wynn, then, "You're safe and cool." But if you don't you're on the wrong side of the line, sweaty, and you too are now the enemy. 
 
-Cancel culture trope seven: Dualism
+#### Cancel culture trope seven: Dualism
 
 Certain ancient religions teach their followers to understand the cosmos as a struggle between light and dark, good and evil. And cancel culture does more or less the same thing. It's binary thinking. People are either good or they're bad. 
 
@@ -693,16 +693,17 @@ In fact, I think the demand for an apology itself is often insincere. If you're 
 
 “Apologize to Twitter”. At this point, I may as well apologize to 4chan. 
 
-Dear 4chan, 
+> Dear 4chan, 
 
-I am super f*cking sorry I called you thin-wristed otaku shit weasels who like looking at pictures of little girls. I have been trying to educate myself and learn from my mistakes, and I now realize that's only 70% of you. 
+> I am super fxcking sorry I called you thin-wristed otaku shit weasels who like looking at pictures of little girls. I have been trying to educate myself and learn from my mistakes, and I now realize that's only 70% of you. 
 
 Once you're canceled, you can really do no right. If you apologize, the apology will be declared a manipulative attempt to save face. And in fact, it will be used as further evidence of what a Machiavellian psychopath you really are. 
 
 If you try to explain or defend yourself, you will almost certainly dig yourself in deeper. And even if you're articulate and correct in your defense, you'll still be seen as unable to take criticism, and as ignoring the hurt of marginalized people. 
 
 And if you just go silent, you'll be seen as a coward fleeing accountability, even though there's lots of reasons why you might go silent. Maybe you're taking a few days away from social media to try to cool down and think clearly. Or maybe you're so overwhelmed by the harassment that you've just shut down. 
-VIII
+
+#### VIII
 
 Let's do shots. Who wants to do a shot with me? Do you want to do a shot with me? Let's do a shot. 
 
@@ -718,7 +719,7 @@ I find I have trouble convincing people of the severity of the pain that being c
 
 Jo Freeman actually describes how I feel better than I think I can describe it myself. 
 
-    “I was one of the first in the country, perhaps the first in Chicago, to have my character, my commitment, and my very self attacked in such a way by Movement women that it left me torn into little pieces and unable to function. It took me years to recover, and even today, the wounds have not entirely healed. This attack is accomplished by making you feel that your very existence is inimical to the movement, and that nothing can change this short of ceasing to exist. These feelings are reinforced when you are isolated from your friends as they become convinced that their association with you is similarly inimical to the movement and to themselves. Any support of you will taint them. Eventually all your colleagues join in in a chorus of condemnation which can not be silenced, and you are reduced to a mere parody of your previous self.” 
+> “I was one of the first in the country, perhaps the first in Chicago, to have my character, my commitment, and my very self attacked in such a way by Movement women that it left me torn into little pieces and unable to function. It took me years to recover, and even today, the wounds have not entirely healed. This attack is accomplished by making you feel that your very existence is inimical to the movement, and that nothing can change this short of ceasing to exist. These feelings are reinforced when you are isolated from your friends as they become convinced that their association with you is similarly inimical to the movement and to themselves. Any support of you will taint them. Eventually all your colleagues join in in a chorus of condemnation which can not be silenced, and you are reduced to a mere parody of your previous self.” 
 
 Yeah, that just about sums it up. 
 
@@ -742,7 +743,7 @@ The people who are most vulnerable to cancel culture are not white guy comedians
 
 I'll quote Jo Freeman one more time: 
 
-    “I had survived my youth because I had never given anyone or any group the right to judge me. That right I had reserved to myself. But the movement had seduced me by its sweet promise of sisterhood. It claimed to provide a haven from the ravages of a sexist society, a place where one would be understood. It was my very need for feminism and feminists that made me vulnerable. I gave the movement the right to judge me because I trusted it. And when it judged me worthless, I accepted that judgment.” 
+> “I had survived my youth because I had never given anyone or any group the right to judge me. That right I had reserved to myself. But the movement had seduced me by its sweet promise of sisterhood. It claimed to provide a haven from the ravages of a sexist society, a place where one would be understood. It was my very need for feminism and feminists that made me vulnerable. I gave the movement the right to judge me because I trusted it. And when it judged me worthless, I accepted that judgment.” 
 
 There's a really irritating point that people on the Left like to make that goes, “Well, canceling doesn't really end anyone's career. Canceled people usually get a new job or keep their platform, so I guess it's not really that bad, huh?” 
 
@@ -750,13 +751,13 @@ I think people say this because they're trying to mitigate any sense of guilt th
 
 On December 5th, 2017, a porn star named August Ames killed herself by hanging in a public park after being canceled on Twitter over a homophobic tweet. On December 3rd she tweeted: 
 
-whichever (lady) performer is replacing me tomorrow for @EroticaXNews , you’re shooting with a guy who has shot gay porn, just to let cha know. BS is all I can say🤷🏽‍♀️ Do agents really not care about who they’re representing? #ladirect I do my homework. 
+> whichever (lady) performer is replacing me tomorrow for @EroticaXNews , you’re shooting with a guy who has shot gay porn, just to let cha know. BS is all I can say🤷🏽‍♀️ Do agents really not care about who they’re representing? #ladirect I do my homework. 
 
 So I've never worked in porn so I can't really tell you what the norms are around women working with men who have done gay porn. But the tweet certainly sounds homophobic to me and that seems to be the consensus of other industry people on Twitter. 
 
 So Twitter did its thing, people in August's community called her a homophobe and lashed out at her. And as always happens, plenty of passers-by jumped in to throw tomatoes at the woman in the stocks. Over the next few days, August tweeted several more times going through the usual stages that you go through when you're being canceled. 
 
-First, she defended herself. She claimed most other women in the industry feel the same as her. Then she said she's bisexual and therefore couldn't be homophobic. Then she said, “Fine, I guess I'll be fake and not have opinions then.” Then she started bemoaning how mean twitter is, and she got really defensive about her right to choose who she has sex with. And she lashed out at the people attacking her. And then, in her final tweet, she just said, "F*ck y'all", and went to the park that night and killed herself. 
+First, she defended herself. She claimed most other women in the industry feel the same as her. Then she said she's bisexual and therefore couldn't be homophobic. Then she said, “Fine, I guess I'll be fake and not have opinions then.” Then she started bemoaning how mean twitter is, and she got really defensive about her right to choose who she has sex with. And she lashed out at the people attacking her. And then, in her final tweet, she just said, "Fxck y'all", and went to the park that night and killed herself. 
 
 This is all so familiar to me, I feel like I'm able to relive with her each stage of this emotional process. There's that first moment when you realize the outrage is beginning and you get that sinking feeling in your stomach, and then the anger, feeling misunderstood, and then the bargaining, the fear, and finally the shame and the despair. 
 
@@ -771,7 +772,8 @@ Then the backlash happened, and since she had no other support network, she prob
 And I can imagine how a person feeling that way could have an impulsive couple hours where they think their best option is suicide. I mean, I can more than imagine it because I've been there myself. And I'm still here, because at those moments, I've been with good friends who took care of me. And by friends, I do mean Xanax. 
 
 But I've also survived because there's a lot of people on the internet who'd be very entertained if I killed myself, and I simply refuse to give them the satisfaction. Oh no, bitch. I intend to live as long as possible out of sheer spite. I mean, who needs a guardian angel when you can make it through Christmas after Christmas on the fumes of total contempt? What I'm really trying to say is Merry Christmas, you goddamn assholes! 
-IX
+
+#### IX
 
 Have a super fucking happy new year, gorg! 🥂
 
@@ -795,6 +797,6 @@ But yeah, they're gonna see the title and they're gonna transcribe quotes out of
 
 See, their mistake was completely breaking my spirit. They should have left a little piece intact. But it's good, it's good, because basically, my survival from here on out hinges on my ability to not care at all what people say about me online. 
 
-So here's to not giving a f*ck! 🍻  Happy new year, everybody!
+So here's to not giving a fxck! 🍻  Happy new year, everybody!
 
 ### END
