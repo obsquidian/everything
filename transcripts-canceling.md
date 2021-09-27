@@ -51,7 +51,7 @@ So, let's analyze how this kind of truth stretching happens.
 
 Cancel culture trope one — and you should be writing this down, class, because this will be on the test. 
 
-Cancel culture trope 1: Presumption of Guilt 
+#### Cancel Culture Trope 1: Presumption of Guilt 
 
 There's a traditional understanding of justice according to which, before you condemn or punish a person, you hear the accuser's side of the story and the accused's side of the story. You allow both sides to present evidence and only after everyone involved has had a chance to make their case do you pass judgment and punish the convict.
 
