@@ -1,13 +1,15 @@
 ### START
 
 ContraPoints 
-Transcripts / Canceling
+
+Transcripts / Canceling 
+
 [Live Link](https://www.contrapoints.com/transcripts/canceling) --- [Archived Link](https://archive.ph/lsBnq)
 
 This is the transcript for the video essay “Canceling” by Natalie Wynn, originally published on Jan 2, 2020 on the ContraPoints YouTube channel. 
 This transcript is intended as a supplement rather than a substitute for the original video. For references and sources, watch the video [here](https://youtu.be/OjMPJVmXxV8). 
 
-#### I
+#### (Part) I
 
 Okay, let's get started. 
 
