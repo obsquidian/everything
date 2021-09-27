@@ -93,7 +93,7 @@ What was the point of canceling James Charles? Did we want to teach him a lesson
 
 My hunch is that the average “BeauTube” viewer was not sincerely outraged and hurt by their sincere belief that James Charles was a sexual predator. In other words, this was not a case of “triggered SJWs”. This was a controversy manufactured from the top by a handful of seemingly vindictive and envious people. I honestly think that most of the “James Charles is a sexual predator” crowd just wanted to bring him down a peg. 
 
-Cancel culture trope 4: Pseudo-Moralism or Pseudo-Intellectualism 
+#### Cancel Culture Trope 4: Pseudo-Moralism or Pseudo-Intellectualism 
 
 If you look at the world we live in, would you say that people are usually motivated by a sense of moral integrity and intellectual rigor? No? Maybe not. Let's be real America, we are a bunch of morally impotent meatbags, constantly shitting ourselves out of fear and lust. 
 
