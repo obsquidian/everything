@@ -1,6 +1,6 @@
 ### START
 
-[Live](https://www.reddit.com/r/ftm/comments/3s1bag/experiences_on_t_pellets_ama) // [Archive](https://archive.is/pbEo8)
+[Live](https://www.reddit.com/r/ftm/comments/3s1bag/experiences_on_t_pellets_ama) /// [Archive](https://archive.is/pbEo8)
 
 posted 2015-11-08 by u/ftmichael
 
@@ -10,7 +10,7 @@ So /u/javatimes asked me to do this a while ago, and I've finally got a little t
 
 This will be a wall of text, but I'm breaking it up as much as I can into bullet points.
 
-Prior to pellets, I was on AndroDerm patches (which I do not recommend), Androgel (which I also do not recommend for effecting changes rather than for maintenance), and IM and then subq injections (mostly enanthate, occasionally cypionate). I'm not interested in debating the pros and cons of transdermal T in this thread; that's not the purpose of this post, so please keep that debate out of the comments here. Just wanted to give a little background. My whole transition journal is online here if you want to read more about my experiences with all those types of T.
+Prior to pellets, I was on AndroDerm patches (which I do not recommend), Androgel (which I also do not recommend for effecting changes rather than for maintenance), and IM and then subq injections (mostly enanthate, occasionally cypionate). I'm not interested in debating the pros and cons of transdermal T in this thread; that's not the purpose of this post, so please keep that debate out of the comments here. Just wanted to give a little background. My whole transition journal is online [here](http://transboys.info/diary.html) if you want to read more about my experiences with all those types of T.
 
 I decided to switch to pellets after talking to a couple of guys here in Boston who'd switched and had good experiences with it. I'm pretty sure they get theirs through Fenway Health; I'm not a Fenway patient, so I went through a urologist at Men's Health Boston. I've found them to be fantastic, both in general and in terms of Trans-savviness. (ETA: my urologist has moved to a new practice and I followed him there, and am very glad I did even though it's a significantly longer drive now. He's worth sticking with.) DM me for more info if you're in the area and looking for a doctor.
 
