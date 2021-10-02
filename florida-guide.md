@@ -13,9 +13,9 @@
 ### INFORMED CONSENT CLINICS
 
 #### Nationally Available (Online) Informed Consent HRT Clinics
-- [Plume](https://getplume.co) --- https://getplume.co ~$99/Month
+- [Plume](https://getplume.co) --- https://getplume.co ~$99 / Month
   - The Spruce app is often glitchy but otherwise my (Obsquidian's) experience has been good.
-- [FOLX Health](https://www.folxhealth.com) ~$89/Month
+- [FOLX Health](https://www.folxhealth.com) ~$89 / Month
 
 #### Jacksonville Informed Consent HRT Clinics
 - [Dr Randolph's Ageless & Wellness Medical Center](https://agelessandwellness.com) : https://agelessandwellness.com
