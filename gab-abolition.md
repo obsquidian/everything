@@ -1,4 +1,4 @@
-
+https://x.com/atheopagan/status/1790812918893711592
 
 prison abolition is an exotic conclusion that results from considerations friendly but not identical to it so explicit 'prison abolition literature' is going to be rare and, 
 as of right now, of the low quality manifesto variety. i don't think people should be excessively literature-bound in that way: it's not as if, for any atomized proposition, 
